@@ -1,0 +1,9 @@
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_3\Taller_MVC_3\CapaControlador_MVC3\obj\Debug\CapaControlador_MVC3.csproj.AssemblyReference.cache
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_3\Taller_MVC_3\CapaControlador_MVC3\obj\Debug\CapaControlador_MVC3.csproj.CoreCompileInputs.cache
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_3\Taller_MVC_3\CapaControlador_MVC3\bin\Debug\CapaControlador_MVC3.dll
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_3\Taller_MVC_3\CapaControlador_MVC3\bin\Debug\CapaControlador_MVC3.pdb
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_3\Taller_MVC_3\CapaControlador_MVC3\bin\Debug\CapaModelo_MVC3.dll
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_3\Taller_MVC_3\CapaControlador_MVC3\bin\Debug\CapaModelo_MVC3.pdb
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_3\Taller_MVC_3\CapaControlador_MVC3\obj\Debug\CapaCont.AAE8D1BA.Up2Date
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_3\Taller_MVC_3\CapaControlador_MVC3\obj\Debug\CapaControlador_MVC3.dll
+C:\MIUMG 2026\S2\TERMINUS\Taller_MVC_3\Taller_MVC_3\CapaControlador_MVC3\obj\Debug\CapaControlador_MVC3.pdb

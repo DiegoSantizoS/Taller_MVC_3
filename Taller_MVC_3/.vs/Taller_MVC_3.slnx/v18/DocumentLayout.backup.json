@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{76ACB15C-C968-48D7-9A42-C1CCFBE70520}|CapaModelo_MVC3\\CapaModelo_MVC3.csproj|c:\\miumg 2026\\s2\\terminus\\taller_mvc_3\\taller_mvc_3\\capamodelo_mvc3\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76ACB15C-C968-48D7-9A42-C1CCFBE70520}|CapaModelo_MVC3\\CapaModelo_MVC3.csproj|solutionrelative:capamodelo_mvc3\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4675A3A4-257E-4B12-BF95-6EE43C16C9DB}|CapaControlador_MVC3\\CapaControlador_MVC3.csproj|c:\\miumg 2026\\s2\\terminus\\taller_mvc_3\\taller_mvc_3\\capacontrolador_mvc3\\sentencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4675A3A4-257E-4B12-BF95-6EE43C16C9DB}|CapaControlador_MVC3\\CapaControlador_MVC3.csproj|solutionrelative:capacontrolador_mvc3\\sentencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4675A3A4-257E-4B12-BF95-6EE43C16C9DB}|CapaControlador_MVC3\\CapaControlador_MVC3.csproj|c:\\miumg 2026\\s2\\terminus\\taller_mvc_3\\taller_mvc_3\\capacontrolador_mvc3\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4675A3A4-257E-4B12-BF95-6EE43C16C9DB}|CapaControlador_MVC3\\CapaControlador_MVC3.csproj|solutionrelative:capacontrolador_mvc3\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -68,9 +76,35 @@
               "RelativeDocumentMoniker": "CapaModelo_MVC3\\Conexion.cs",
               "ToolTip": "C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_3\\Taller_MVC_3\\CapaModelo_MVC3\\Conexion.cs",
               "RelativeToolTip": "CapaModelo_MVC3\\Conexion.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T01:34:29.178Z",
+              "WhenOpened": "2026-09-03T01:48:06.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sentencias.cs",
+              "DocumentMoniker": "C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_3\\Taller_MVC_3\\CapaControlador_MVC3\\Sentencias.cs",
+              "RelativeDocumentMoniker": "CapaControlador_MVC3\\Sentencias.cs",
+              "ToolTip": "C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_3\\Taller_MVC_3\\CapaControlador_MVC3\\Sentencias.cs*",
+              "RelativeToolTip": "CapaControlador_MVC3\\Sentencias.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T01:46:30.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Controlador.cs",
+              "DocumentMoniker": "C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_3\\Taller_MVC_3\\CapaControlador_MVC3\\Controlador.cs",
+              "RelativeDocumentMoniker": "CapaControlador_MVC3\\Controlador.cs",
+              "ToolTip": "C:\\MIUMG 2026\\S2\\TERMINUS\\Taller_MVC_3\\Taller_MVC_3\\CapaControlador_MVC3\\Controlador.cs*",
+              "RelativeToolTip": "CapaControlador_MVC3\\Controlador.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T01:46:19.856Z",
               "EditorCaption": ""
             }
           ]
